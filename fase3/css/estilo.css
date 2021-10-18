@@ -141,6 +141,11 @@ display: block;
     controls 
     loop
 }
+.audio{
+    autoplay 
+    controls 
+    loop
+}
 
 
  
